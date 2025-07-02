@@ -1,4 +1,4 @@
-# STATIC LIBRARY (libcalc.a)
+# DYNAMIC LIBRARY (libcalc.so)
 
 ## Launch
 
